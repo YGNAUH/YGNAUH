@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Topaz
-- 👀 I’m interested in beinig a stone (sth just like that)
+- 👀 I’m interested in being a stone (sth just like that)
 - 🌱 I’m currently learning Robotics & Computation @UCL
 - 📫 How to reach me: y.gnauh@outlook.com
 
