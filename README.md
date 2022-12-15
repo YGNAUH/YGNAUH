@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Topaz
 - 👀 I’m interested in being a stone (or anything just like that)
-- 🌱 I’m currently learning Robotics & Computation @UCL
+- 🌱 I’m currently ...
 - 📫 How to reach me: y.gnauh@outlook.com
 
 <!---
